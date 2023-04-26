@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "companyLogo": "https://www.logolynx.com/images/logolynx/08/08697a564fc07ae9fcb6b324b89eeb00.png",
+        "jobTitle": "Software Engineer",
+        "companyName": "Acme Inc.",
+        "remoteOrOnsite": "Remote",
+        "location": "New York, NY",
+        "fullTimeOrPartTime": "Full-time",
+        "salary": "$120,000 - $150,000",
+        "jobDescription": "Acme Inc. is seeking an experienced software engineer to join our team...",
+        "jobResponsibilities": [
+            "Design and implement new software features",
+            "Debug and fix issues in existing codebase",
+            "Collaborate with other team members to design and implement solutions",
+            "Write and maintain documentation",
+            "Participate in code reviews"
+        ],
+        "educationalRequirements": "Bachelor's degree in Computer Science or related field",
+        "experiences": "3+ years of professional experience in software engineering",
+        "contactInformation": {
+            "phone": "+1 (555) 555-1234",
+            "email": "jobs@acmeinc.com"
+        }
+    },
+    {
+        "id": 2,
+        "companyLogo": "https://nic.xyz/images/xyz-logo-purple.png",
+        "jobTitle": "Marketing Manager",
+        "companyName": "XYZ Corp.",
+        "remoteOrOnsite": "Onsite",
+        "location": "San Francisco, CA",
+        "fullTimeOrPartTime": "Part-time",
+        "salary": "$90,000 - $110,000",
+        "jobDescription": "XYZ Corp. is seeking a creative and driven marketing manager to join our team...",
+        "jobResponsibilities": [
+            "Develop and implement marketing strategies to drive brand awareness and customer acquisition",
+            "Manage and mentor a team of marketing specialists",
+            "Collaborate with cross-functional teams to align messaging and campaigns",
+            "Monitor and report on marketing metrics and ROI",
+            "Stay up-to-date on industry trends and best practices"
+        ],
+        "educationalRequirements": "Bachelor's degree in Marketing or related field",
+        "experiences": "5+ years of professional experience in marketing",
+        "contactInformation": {
+            "phone": "+1 (555) 555-5678",
+            "email": "hr@xyzcorp.com"
+        }
+    },
+    {
+        "id": 3,
+        "companyLogo": "https://intenseplugin.com/wp-content/uploads/2014/05/logo1-1024x237.png",
+        "jobTitle": "Sales Associate",
+        "companyName": "Big Co.",
+        "remoteOrOnsite": "Onsite",
+        "location": "Chicago, IL",
+        "fullTimeOrPartTime": "Part-time",
+        "salary": "$20 - $25 per hour",
+        "jobDescription": "Big Co. is seeking a part-time sales associate to join our team...",
+        "jobResponsibilities": [
+            "Assist customers in selecting and purchasing products",
+            "Maintain a clean and organized store environment",
+            "Collaborate with other team members to achieve sales goals",
+            "Stay up-to-date on product knowledge and promotions",
+            "Provide excellent customer service"
+        ],
+        "educationalRequirements": "High school diploma or equivalent",
+        "experiences": "1+ years of retail sales experience",
+        "contactInformation": {
+            "phone": "+1 (555) 555-7890",
+            "email": "careers@bigco.com"
+        }
+    },
+    {
+        "id": 4,
+        "companyLogo": "https://images.squarespace-cdn.com/content/615b450dbb479c4411623b51/71c4f75c-de39-4de3-aed9-327155165b32/L2Design_logo.png?format=1500w&content-type=image%2Fpng",
+        "jobTitle": "Graphic Designer",
+        "companyName": "Design Studio LLC",
+        "remoteOrOnsite": "Onsite",
+        "location": "Los Angeles, CA",
+        "fullTimeOrPartTime": "Full-time",
+        "salary": "$60,000 - $80,000",
+        "jobDescription": "Design Studio LLC is seeking a talented graphic designer to join our team...",
+        "jobResponsibilities": [
+            "Design and produce high-quality visual assets for print and digital media",
+            "Collaborate with clients and team members to develop creative solutions",
+            "Manage multiple design projects simultaneously",
+            "Stay up-to-date on design trends and technologies",
+            "Present design concepts and ideas to clients and team members"
+        ],
+        "educationalRequirements": "Bachelor's degree in Graphic Design or related field",
+        "experiences": "3+ years of professional experience in graphic design",
+        "contactInformation": {
+            "phone": "+1 (555) 555-3456",
+            "email": "designjobs@designstudiollc.com"
+        }
+    },
+    {
+        "id": 5,
+        "companyLogo": "https://gmsthebest.biz/wp-content/uploads/2017/03/gmslogo400-1.png",
+        "jobTitle": "Marketing Manager",
+        "companyName": "Global Marketing Solutions",
+        "remoteOrOnsite": "Remote",
+        "location": "New York, NY",
+        "fullTimeOrPartTime": "Full-time",
+        "salary": "$90,000 - $120,000",
+        "jobDescription": "Global Marketing Solutions is seeking a Marketing Manager to join our team...",
+        "jobResponsibilities": [
+            "Develop and implement marketing strategies to increase brand awareness and sales",
+            "Collaborate with cross-functional teams to execute marketing campaigns and initiatives",
+            "Create and manage marketing budgets",
+            "Analyze and report on campaign performance and ROI",
+            "Stay up-to-date on marketing trends and technologies"
+        ],
+        "educationalRequirements": "Bachelor's degree in Marketing or related field",
+        "experiences": "5+ years of professional experience in marketing",
+        "contactInformation": {
+            "phone": "+1 (555) 555-6789",
+            "email": "careers@globalmarketingsolutions.com"
+        }
+    },
+    {
+        "id": 6,
+        "companyLogo": "https://i.pinimg.com/originals/f4/cf/ec/f4cfec4f3b4bbf24798b26aa4a5508f2.png",
+        "jobTitle": "Graphic Designer",
+        "companyName": "Design Co.",
+        "remoteOrOnsite": "Onsite",
+        "location": "Seattle, WA",
+        "fullTimeOrPartTime": "Part-time",
+        "salary": "$70,000 - $90,000",
+        "jobDescription": "Design Co. is seeking a talented graphic designer to join our team...",
+        "jobResponsibilities": [
+            "Create visual designs for print and digital media",
+            "Collaborate with cross-functional teams to create cohesive designs",
+            "Ensure brand consistency across all designs",
+            "Stay up-to-date on design trends and software",
+            "Present designs and concepts to clients"
+        ],
+        "educationalRequirements": "Bachelor's degree in Graphic Design or related field",
+        "experiences": "3+ years of professional experience in graphic design",
+        "contactInformation": {
+            "phone": "+1 (555) 555-5678",
+            "email": "designjobs@designco.com"
+        }
+    }
+]

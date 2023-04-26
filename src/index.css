@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.h {
+    @apply text-xl font-semibold;
+}
+
+.h1 {
+    @apply text-2xl font-semibold;
+}
+
+.active {
+    @apply text-[#6b47cc] !important;
+}
+
+.default {
+    @apply text-[#757575] font-semibold leading-5
+}
+
+.btn {
+    @apply py-3 px-4 rounded-md bg-gradient-to-r from-[#7E90FE] to-[#9873FF] font-semibold text-white outline-none border-0
+}
+
+.btn-outline {
+    @apply py-2 px-4 border rounded-md border-[#7E90FE] font-semibold text-[#7E90FE]
+}
+
+.MyContainer {
+    @apply max-w-7xl w-full px-2 md:px-3 mx-auto
+}
+
+.fHeadline {
+    @apply text-white text-lg font-semibold
+}
+
+ul {
+    @apply leading-10
+}
+
+ul li {
+    @apply cursor-pointer
+}
+
+.headline {
+    @apply text-5xl font-extrabold
+}
+
+.headline2 {
+    @apply font-bold text-3xl mb-3
+}
+
+.bg-1 {
+    @apply bg-[#9873FF] bg-opacity-10 rounded-lg
+}
+
+.bg-category {
+    @apply bg-gradient-to-r from-[#7e8ffe10] to-[#9873ff10]
+}

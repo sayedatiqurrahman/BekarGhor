@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "logo": "https://cdn-icons-png.flaticon.com/512/2920/2920252.png",
+        "name": "Technology",
+        "jobsAvailable": 120
+    },
+    {
+        "id": 2,
+        "logo": "https://cdn-icons-png.flaticon.com/512/781/781760.png",
+        "name": "Finance",
+        "jobsAvailable": 85
+    },
+    {
+        "id": 3,
+        "logo": "https://cdn-icons-png.flaticon.com/512/2382/2382533.png",
+        "name": "Healthcare",
+        "jobsAvailable": 55
+    },
+    {
+        "id": 4,
+        "logo": "https://cdn-icons-png.flaticon.com/512/3976/3976631.png",
+        "name": "Education",
+        "jobsAvailable": 40
+    }
+]
