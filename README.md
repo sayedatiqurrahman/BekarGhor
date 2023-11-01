@@ -1,7 +1,7 @@
 <b style="font-size:20px; margin-right:9px;">Live Link:</b>
-[Live Link](https://atik-assignment09.netlify.app/)
+[Live Link](https://bekarghor.netlify.app/)
 <br>
-https://atik-assignment09.netlify.app/
+https://bekarghor.netlify.app/
 
 <br>
 <br>
